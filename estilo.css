@@ -1,0 +1,28 @@
+body{
+       background-color:red;
+       font-size: 40px;
+       color: white;
+       text-align: center;
+       font-family: 'roboto',sans-serif;
+
+}
+
+p{
+    font-size: 16px;
+    color: blue;
+}
+#missao{
+    color: green;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+#banner{
+    width: 100%;
+
+}    
+
+ #conteudo{
+    display: flex;
+    padding: 20px;
+ }
